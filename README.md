@@ -2,7 +2,7 @@
 
 Configures a fresh installation of Xubuntu to convert it into a kiosk which
 only runs a web application within Google Chrome. A user is created, named
-kiosk, whose account can onyl be accessed by automatically launching an X
+kiosk, whose account can only be accessed by automatically launching an X
 session (password is disabled). That X session doesn't include any desktop
 environment but instead runs Google Chrome in fullscreen kiosk mode.
 
